@@ -24,7 +24,7 @@ This document will overview the steps you need to get started writing a custom m
 
 ## Download the Code And Initial Setup
 
-1. Starter Project - https://github.com/raytheonbbn/landsar-getting-started/tree/main/motion-model-demo - includes skeleton structure so you can get started hacking on your motion model plugin
+1. Starter Project - (motion-model-demo subfolder in this repository) - includes skeleton structure so you can get started on your motion model plugin
 2. LandSAR Base Binaries - https://github.com/raytheonbbn/landsar-base - used to run the LandSAR system, which will run your motion model plugin. This repository requires <a href="https://git-lfs.com/">git-lfs</a>. 
     * LandSAR Base excludes operational models and parameters found in the LandSAR system. 
     * LandSAR is implemented as a client/server application, with a Java-based server and several clients including browser-based and an Android Team Awareness Kit (ATAK) plugin. LandSAR Base only includes the browser-based client. 
