@@ -5,7 +5,7 @@
   </a>
 
   <h1 align="center">LandSAR Search and Rescue Decision Support Tool</h1>
-  <h2 align="center">TAKathon Quick Start Guide</h2>
+  <h2 align="center">Motion Model Development Quick Start Guide</h2>
 </p>
 
 
